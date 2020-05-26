@@ -25,6 +25,8 @@ Including the following fonts,
 
 1. Source Han Sans CN Light
 
+Other weights can be found in [this repo](https://github.com/magiclen/source-han-sans-cn-woff2-extra).
+
 ## Building the fonts from source
 
 https://github.com/adobe-fonts/source-han-sans
